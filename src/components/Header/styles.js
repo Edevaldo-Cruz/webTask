@@ -71,4 +71,12 @@ export const RightSide = styled.div`
     margin: 0 10px;
     color: #fff;
   }
+
+  button {
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 10px;
+  }
 `;
